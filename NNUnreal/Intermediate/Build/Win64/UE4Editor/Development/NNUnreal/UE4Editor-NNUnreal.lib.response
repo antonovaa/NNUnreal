@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NNUnreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Development\Git Unreal Engine 4.20.3\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Games\AnimRepl\Plugins\NNUnreal\Intermediate\Build\Win64\UE4Editor\Development\NNUnreal\Module.NNUnreal.cpp.obj"
+"D:\Games\AnimRepl\Plugins\NNUnreal\Intermediate\Build\Win64\UE4Editor\Development\NNUnreal\Module.NNUnreal.gen.cpp.obj"
+"D:\Development\Git Unreal Engine 4.20.3\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"D:\Games\AnimRepl\Plugins\NNUnreal\Intermediate\Build\Win64\UE4Editor\Development\NNUnreal\UE4Editor-NNUnreal.lib"
