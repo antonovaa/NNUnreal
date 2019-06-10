@@ -7,6 +7,8 @@
   "Category": "NeuralNetwork",
   "CreatedBy": "Dro",
   "CreatedByURL": "",
+  "EngineVersion": "4.20.3",
+  "WhitelistPlatforms": [ "Win64", "Win32" ],
   "DocsURL": "",
   "MarketplaceURL": "",
   "SupportURL": "",
