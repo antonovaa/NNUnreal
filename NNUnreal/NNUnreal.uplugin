@@ -3,10 +3,12 @@
   "Version": 1,
   "VersionName": "1.0",
   "FriendlyName": "NNUnreal",
-  "Description": "Neural Network --dinamic backpropogate ",
+  "Description": "Neural Network --dynamic backpropogate ",
   "Category": "NeuralNetwork",
   "CreatedBy": "Dro",
   "CreatedByURL": "",
+  "EngineVersion": "4.20.3",
+  "WhitelistPlatforms": [ "Win64", "Win32" ],
   "DocsURL": "",
   "MarketplaceURL": "",
   "SupportURL": "",
@@ -16,7 +18,7 @@
   "Modules": [
     {
       "Name": "NNUnreal",
-      "Type": "Developer",
+      "Type": "Runtime",
       "LoadingPhase": "Default"
     }
   ]
